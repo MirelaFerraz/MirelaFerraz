@@ -1,6 +1,6 @@
 ##  Oi! Sou a Mirela Ferraz e gostei de te ver aqui.
 <h4>
-  • 💻 Estudante de Desenvolvimento Web <br>
+  • 💻 Estudante de Sistemas de Informação na UFPB <br>
   • 😎 Pronomes: Ela/Dela <br>
   • ♀️ Lutando por diversidade em todos os lugares
 </h4>
