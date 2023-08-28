@@ -1,4 +1,4 @@
-##  Oi! Sou a Mirela Ferraz e gostei de te ver aqui.
+##  Oi! Sou Mirela Ferraz e gostei de te ver aqui.
 <h4>
   • 💻 Estudante de Ciência da Computação na Unipê <br>
   • 😎 Pronomes: Ela/Dela <br>
